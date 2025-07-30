@@ -1,6 +1,6 @@
 # PostgreSQL Performance Monitoring System
 
-![Dashboard Screenshot](Screenshots/grafana-dashboard.png) *← Replace with your actual screenshot*
+![Dashboard Screenshot](Screenshots/Grafana-Login.png) *← Replace with your actual screenshot*
 
 A real-time monitoring solution for PostgreSQL databases, leveraging Prometheus for metrics collection and Grafana for visualization. Designed to help developers and DBAs identify performance bottlenecks, slow queries, and connection issues.
 
@@ -20,7 +20,7 @@ A real-time monitoring solution for PostgreSQL databases, leveraging Prometheus 
 ## Screenshots
 | Prometheus Targets | Grafana Dashboard |
 |--------------------|-------------------|
-| ![Prometheus](Screenshots/prometheus-targets.png) | ![Grafana](Screenshots/grafana-dashboard.png) |
+| ![Prometheus](Screenshots/promethues-Targets.png) | ![Grafana](Screenshots/Grafana-Dashboard.png) |
 
 ## Getting Started
 
