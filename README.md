@@ -20,7 +20,7 @@ A real-time monitoring solution for PostgreSQL databases, leveraging Prometheus 
 ## Screenshots
 | Prometheus Targets | Grafana Dashboard |
 |--------------------|-------------------|
-| ![Prometheus](Screenshots/promethues-Targets.png) | ![Grafana](Screenshots/Grafana-Dashboard.png) |
+| ![Prometheus](Screenshots/Promethues-Targets.png) | ![Grafana](Screenshots/Grafana-Dashboard.png) |
 
 ## Getting Started
 
